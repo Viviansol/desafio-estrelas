@@ -1,0 +1,46 @@
+.content{     
+    font-size: 80px;
+    text-transform: uppercase;
+    color: white;
+    margin: 50px;
+    padding: 50px; 
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-image: url("logo.jpg");
+  
+}
+
+#container{
+    
+    color: aqua;
+    background-color: #fde8c0;
+    box-shadow: 0 8px 32px 0 rgb(5, 255, 213);
+    margin: 50px;
+    text-align: left;
+    border: 7px solid ;
+    border-style: double;
+    border-radius: 8px;
+    font: 20px;
+    justify-content: center;
+   
+    
+    
+}
+
+#personagens{
+    color:aqua;
+    font-weight: bold;
+    background-color: #fde8c0;
+    box-shadow: 0 8px 32px 0 rgb(5, 255, 213);
+    border-radius:8px;
+    font-size: 20px;
+    margin: 50px;
+    border: 7px solid;
+    border-style: double;
+    display: center;
+    margin:50px;
+    padding:50px;
+    
+   
+}
